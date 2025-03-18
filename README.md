@@ -6,7 +6,7 @@
 
 https://0xdeploy-faucet-demo.vercel.app/
 
-## Video Tutorial
+## Video Tutoriald
 
 [![](https://user-images.githubusercontent.com/19412160/212460373-16832943-6626-409c-aba9-15227937748d.png)](https://youtu.be/PcFfN_jrc_w)
 
