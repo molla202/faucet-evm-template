@@ -14,6 +14,7 @@ export default async function transferCoin(address: string): Promise<TransferCoi
     const transaction = await wallet.sendTransaction({
       to: address,
       value: process.env.VALUE as string,
+      gasLimit: ethers.utils.hexlify(30000), // Manuel gaz limiti
     });
     return {
       success: true,
